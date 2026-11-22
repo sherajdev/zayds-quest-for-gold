@@ -38,3 +38,7 @@ Open index.html in a desktop browser.
 Explore four regions, defeat guardians, collect treasure maps, and confront Aahil in the final chapter. Use Z when his health is low to finish the battle.
 
 Progress is held in memory during the current session; reloading starts a new adventure.
+
+## Mobile controls
+
+Turn your phone to landscape. The left joystick moves; the right joystick aims and attacks while held. Use the Hero, Sprint (hold), Map, Use, and skill buttons for the remaining actions. Skill buttons show cooldowns. Portrait mode pauses the game. Fullscreen and automatic landscape locking are requested when supported; otherwise rotate manually. Desktop keyboard controls still work.
