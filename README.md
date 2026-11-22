@@ -41,4 +41,4 @@ Progress is held in memory during the current session; reloading starts a new ad
 
 ## Mobile controls
 
-Turn your phone to landscape. The left joystick moves; the right joystick aims and attacks while held. Use the Hero, Sprint (hold), Map, Use, and skill buttons for the remaining actions. Skill buttons show cooldowns. Portrait mode pauses the game. Fullscreen and automatic landscape locking are requested when supported; otherwise rotate manually. Desktop keyboard controls still work.
+Turn your phone to landscape. The left joystick moves; the right joystick aims and attacks while held. Use the Hero, Sprint (hold), Map, Use, and skill buttons for the remaining actions. Skill buttons show cooldowns. Portrait mode pauses the game. Rotate manually to landscape. The map opens a dedicated view with zoom, drag to pan, and a You button to center on your hero. Desktop keyboard controls still work.
